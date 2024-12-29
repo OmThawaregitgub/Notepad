@@ -1,0 +1,1 @@
+This is my python project. Where I making notepad using tkinter.Tkinter is famous module for creating a Gui.In this I try to make a mini notepad editor
